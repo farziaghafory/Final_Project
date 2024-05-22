@@ -1,0 +1,10 @@
+.footer{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.foot_text{
+    font-size: 1.3rem;
+    color: rgb(116, 114, 114);
+}
